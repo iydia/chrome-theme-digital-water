@@ -1,7 +1,7 @@
 # Digital Water Chrome Theme
 *Like moonlit water, on a digital screen*...
 
-Web Store Link: [TBD](https://chromewebstore.google.com)
+Web Store Link: [Chrome](https://chromewebstore.google.com/detail/jllkgahjgbmflojjbmagibfnhdlccmip?utm_source=item-share-cb)
 
 ## How to Test (Local)
 
